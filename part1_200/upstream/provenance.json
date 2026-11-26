@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/SheltonLiu-N/AutoDAN",
+  "commit": "34062e964185693e81a6775b4f0d00bfd7507612",
+  "zip_sha256": "3327c3f48775b0b6a1504bd6af034c669f01991aeedb034ad84305259a49cc8e",
+  "files": {
+    "utils/opt_utils.py": "eafd912b28b811c498c8e9e93af952b9c50e9bc2ba13ea7d66c621ad29aa1ea7",
+    "assets/prompt_group.pth": "04dc00899aab6f09ef460ab022776867075e13c78ea0150feb9c7c34201f9a1b",
+    "LICENSE": "5b9fd08d5288e130414800b0495264313bbc1120dc3d01a1290a6fd371adb536"
+  }
+}

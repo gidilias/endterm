@@ -1,0 +1,1 @@
+PASS: 62 task/seed combinations; 400 result rows; seeds 43/44 only; no timeout; syntax validated. GPU run not executed here.

@@ -1,0 +1,7 @@
+numpy<3
+nltk>=3.8,<4
+openai>=0.28,<1
+fschat==0.2.36
+sentencepiece
+protobuf
+mlflow-skinny>=2.10,<4

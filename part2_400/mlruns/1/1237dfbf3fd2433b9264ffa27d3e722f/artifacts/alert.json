@@ -1,0 +1,10 @@
+{
+  "alerts": [
+    "incomplete_pct"
+  ],
+  "thresholds": {
+    "p95_s": 120,
+    "incomplete_pct": 10,
+    "basis": "Classroom assumptions fixed before new run; not production guarantees"
+  }
+}

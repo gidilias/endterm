@@ -1,0 +1,8 @@
+{"cond": "squeeze", "alert": "abs_p95_>120s", "fired": false}
+{"cond": "squeeze", "alert": "abs_incomplete_>10%", "fired": true}
+{"cond": "squeeze", "alert": "rel_p95_>1.5x_baseline", "fired": false}
+{"cond": "squeeze", "alert": "rel_incomplete_+10pts", "fired": true}
+{"cond": "contention", "alert": "abs_p95_>120s", "fired": true}
+{"cond": "contention", "alert": "abs_incomplete_>10%", "fired": true}
+{"cond": "contention", "alert": "rel_p95_>1.5x_baseline", "fired": true}
+{"cond": "contention", "alert": "rel_incomplete_+10pts", "fired": false}

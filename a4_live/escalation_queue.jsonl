@@ -1,0 +1,5 @@
+{"cond": "squeeze", "alert": "abs_incomplete_>10%", "fired": true, "status": "pending_human_review", "action": "operator triage -> fix -> regression test -> release approval"}
+{"cond": "squeeze", "alert": "rel_incomplete_+10pts", "fired": true, "status": "pending_human_review", "action": "operator triage -> fix -> regression test -> release approval"}
+{"cond": "contention", "alert": "abs_p95_>120s", "fired": true, "status": "pending_human_review", "action": "operator triage -> fix -> regression test -> release approval"}
+{"cond": "contention", "alert": "abs_incomplete_>10%", "fired": true, "status": "pending_human_review", "action": "operator triage -> fix -> regression test -> release approval"}
+{"cond": "contention", "alert": "rel_p95_>1.5x_baseline", "fired": true, "status": "pending_human_review", "action": "operator triage -> fix -> regression test -> release approval"}
